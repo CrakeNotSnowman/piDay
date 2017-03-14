@@ -3,7 +3,9 @@ import random
 import time
 import math
 
-# Idea Cur
+# Idea Thanks to the wonderful Matt Parker
+#   https://www.youtube.com/watch?v=RZBhSi_PwHU
+
 
 
 def gcd(x, y):
